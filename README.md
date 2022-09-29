@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Desenvolvedor Web Front-end no caminho para ser Full-stack
+Desenvolvedor Web Front-end on my way to be a Full-stack
 
 * 🌍  I'm based in Itararé - Sp
 * ✉️  You can contact me at [efsmanuf@gmail.com](mailto:efsmanuf@gmail.com)
